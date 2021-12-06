@@ -47,7 +47,7 @@ header{
 #head{
     width:960px;
     height:220px;
-    background-image:url(imagenes/Cursos-de-panaderia.jpg);
+    background-image:url(Cursos-de-panaderia.jpg);
     margin-top:0px;
 }
 #menu{
@@ -60,13 +60,12 @@ header{
 #efecto{
     width:960px;
     height:90px;
-      background-image:url(imagenes/panaderia.jpg);
+      background-image:url(panaderia.jpg);
     margin-top:0px;
 }
 #publicidad{
     width:450px;
     height:270px;
-    background-image:url(imagenes/giphy.gif);
     margin-top:10px; 
     margin-left:500px;
 }
